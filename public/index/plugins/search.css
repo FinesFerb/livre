@@ -1,0 +1,41 @@
+.main_list{
+    display: flex;
+    flex-direction: column;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-top: 32px;
+}
+.title_h1{
+    font: normal 22px ALS Sirius,Arial,Helvetica Neue,Helvetica,sans-serif;
+    letter-spacing: .15px;
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: 600;
+}
+.capt{
+    display: flex;
+    background: #f5f5f5;
+    border-radius: 20px;
+}
+.span_search{
+    padding: 10px 20px 10px;
+}
+.flex-listok{
+    display: flex;
+    flex-direction: row;
+}
+.filtr{
+    margin-bottom: 24px;
+    width: 170px
+}
+.h1_format{
+    font: normal 22px ALS Sirius,Arial,Helvetica Neue,Helvetica,sans-serif;
+    letter-spacing: .15px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    color: #000;
+    font-weight: 600;
+}
+.label_check{
+    margin-left: 10px
+}
